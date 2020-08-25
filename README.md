@@ -1,4 +1,4 @@
-# head-first
+# head-first-design-patterns
 
 ## OO Basics
 - Abstraction
